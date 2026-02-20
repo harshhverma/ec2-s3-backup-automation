@@ -14,7 +14,7 @@ The EC2 instance compresses local files and uploads them to an encrypted S3 buck
 
 ### Architecture Diagram 
 
-![Architecture Diagram](awsprojectarchitecture.png)
+![Architecture Diagram](architecture.png)
 
 ### Architecture Explanation
 
